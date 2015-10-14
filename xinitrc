@@ -1,5 +1,5 @@
 xrdb .Xresources
-sh ~/.fehbg 
+sh ~/config/.fehbg 
 exec i3
 
 

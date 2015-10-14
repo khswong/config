@@ -1,4 +1,5 @@
 # config
-my configuration for arch (and possibly other stuff, so i can just install i3 and use it
+
+My configuration files for Arch Linux (and possibly other distributions).
 
 There should be a script that will just load things into the right places. 
