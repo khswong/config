@@ -1,5 +1,0 @@
-config.sh
-genetic-algorithms
-pyRC
-scrap_ching
-waifuBot
